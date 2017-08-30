@@ -1,0 +1,38 @@
+1. I'm taking this course because I think it will help me present data to future employers,
+which will be useful especially when they have little/no NLP knowledge.
+
+2. Basic javascript, how to format good visualizations
+
+3. Python, Java, Scala
+
+4. Python
+
+5. Nope.
+
+6. The reddit dataset I used for my data science final project last semester. I used bigquery
+to pull the data, and python to manipulate/analyze it. I actually think my final report would
+have been greatly improved by some nice visualizations.
+
+7. /r/dataisbeautiful has some really cool ones. This maybe isn't my favorite of all time, but it
+sticks out because it's NLP related:
+https://www.reddit.com/r/dataisbeautiful/comments/6rk2yr/letter_and_nextletter_frequencies_in_english_oc/?st=j6zdcuhu&sh=043e8cf8
+In their source code they also have a markov pseudo-word generator based on these frequencies.
+
+8. There are some really terrible ones that also get upvoted there. This does look interesting visually,
+but it also makes it look like 900 planes take off from ATL every day at 10:00am.
+https://www.reddit.com/r/dataisbeautiful/comments/6grmgz/airport_takeoffs_per_minute_oc/?st=j6zda3j2&sh=babcff32
+
+9. Definitely not the same level as someone who was a CS major, but I don't feel like I've had that much
+trouble coding-wise in my classes so far, so maybe 60th percentile?
+
+10. My undergrad major was in math, so hopefully a bit higher than average, although it's been a
+long time since I've done much pure math related stuff. 75th percentile?
+
+11. Used it a lot at my internship this summer (github). Used an inhouse-built system at my previous job.
+
+12. Used it for everything this past summer. Not a master by any means, but familiar with branching, merging, etc.
+
+13. All the company's code was hosted on github.
+
+14. I just heard that it takes about three years for the amount of rain which has fallen on Houston so far to fall on
+Tucson. Yikes!
